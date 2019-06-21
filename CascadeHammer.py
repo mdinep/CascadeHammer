@@ -1,4 +1,11 @@
 #! /usr/bin/env python
+
+#################################################################################
+#Linux CascadeHammer, v1.0 							#
+#Written by Matthew Dinep 							#
+#November, 18th, 2013								#
+#################################################################################
+
 from multiprocessing import Pool
 import os,sys
 import time
